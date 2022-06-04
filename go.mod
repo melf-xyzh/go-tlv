@@ -1,1 +1,1 @@
-module "go-tlv"
+module github.com/melf-xyzh/go-tlv

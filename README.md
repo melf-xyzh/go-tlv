@@ -1,15 +1,18 @@
-/**
- * @Time    :2022/6/3 10:32
- * @Author  :MELF晓宇
- * @Email   :xyzh.melf@petalmail.com
- * @FileName:main.go
- * @Project :go-tlv
- * @Blog    :https://blog.csdn.net/qq_29537269
- * @Guide   :https://guide.melf.space
- * @Information:
- *
- */
+# go-tlv
 
+### 介绍
+
+一个TLV（Tag、Length、Value）报文的简易封装库。
+
+### 安装
+
+```
+go get github.com/melf-xyzh/go-tlv
+```
+
+### 例子
+
+```go
 package main
 
 import (
@@ -39,3 +42,6 @@ func main() {
 		}
 	}
 }
+```
+
+### 
